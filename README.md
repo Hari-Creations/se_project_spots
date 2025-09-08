@@ -20,5 +20,5 @@ The way you'll do this at work is by exporting images directly from Figma — we
   
 Good luck and have fun!
 
-Here's a link for Spot webpages deployment:
+Here's a link for Spots deployment:
 https://hari-creations.github.io/se_project_spots/
