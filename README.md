@@ -4,7 +4,7 @@ An image sharing website
 
 ## Description 
 
-User can create a profile that includes a pciture, name, and desciption. Users can also add images to share and like throughout the Spots community
+User can create a profile that includes a picture, name, and desciption. Users can also add images to share and like throughout the Spots community
 
 ## Tech Stack
 
