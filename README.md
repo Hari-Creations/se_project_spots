@@ -23,9 +23,9 @@ https://hari-creations.github.io/se_project_spots/
 
 ### Screenshots for Desktop and Mobile view: 
 
-[Desktop View](se_project_spots/images/spots_desktop-view.png)
+[Desktop View](/images/spots_desktop-view.png)
 
-[Mobile View](se_project_spots/images/spots_mobile-view.png)
+[Mobile View](/images/spots_mobile-view.png)
 
 ### Video Overview  
 
