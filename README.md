@@ -15,9 +15,9 @@ User can create a profile that includes a picture, name, and desciption. Users c
 
 ## Deployment
 
-Here's a link for Spots github-pages:
+Here's a link for Spots github pages:
 
-https://hari-creations.github.io/se_project_spots/
+[Github Pages Link](https://hari-creations.github.io/se_project_spots/)
 
 ## Overview 
 
