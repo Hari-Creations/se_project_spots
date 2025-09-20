@@ -29,4 +29,4 @@ https://hari-creations.github.io/se_project_spots/
 
 ### Video Overview  
 
-[Spots Video](https://drive.google.com/file/d/1v_zH-6ADTTt1XT35x8CbmkNedy1t5fps/view?usp=drive_link)
+[Spot Video Overview](https://drive.google.com/file/d/1v_zH-6ADTTt1XT35x8CbmkNedy1t5fps/view?usp=sharing)
