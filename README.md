@@ -29,4 +29,4 @@ Here's a link for Spots github pages:
 
 ### Video Overview  
 
-[Spot Video Overview](https://drive.google.com/file/d/1v_zH-6ADTTt1XT35x8CbmkNedy1t5fps/view?usp=sharing)
+[Spots Video Overview](https://drive.google.com/file/d/1fwz8wWjQpLDfi9k-s0xoPGuzcVv-vOG8/view?usp=drive_link)
